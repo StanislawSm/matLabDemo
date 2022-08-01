@@ -12,6 +12,6 @@ Touched subjects are:
   
   interpolation,
   
-  integration,
+  integration
 
 and others.
